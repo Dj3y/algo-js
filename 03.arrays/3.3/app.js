@@ -16,7 +16,8 @@
     // Les methodes suivants crée une copie du tableau original si on modifie le tableau original la copie n'est pas modifiée
     let array1 = [3, 9, 26, 6];
     console.log("Array 1" + array1);
-    // - Create a copy using spread syntax.
+    // - Create a copy using spread syntax. 
+    // C'est la plus répandu 
     // let copyArray1 = [...array1];
     // Create a copy using the from() method.
     // let copyArray1 = Array.from(array1);
