@@ -13,7 +13,7 @@
         let arrayN = [];
         for(i = 0; i < n; i++){  
             function rand10(){
-                return Math.floor(Math.random() * 10) + 1;
+                return Math.floor(Math.random() * 10) + 1; 
             }
             arrayN.push(rand10());
         }
